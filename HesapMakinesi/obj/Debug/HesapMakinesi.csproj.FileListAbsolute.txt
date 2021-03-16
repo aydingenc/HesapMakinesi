@@ -1,0 +1,14 @@
+C:\Users\Furkan\Source\Repos\hesapmakinesi\HesapMakinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\Furkan\Source\Repos\hesapmakinesi\HesapMakinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\Furkan\Source\Repos\hesapmakinesi\HesapMakinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\Furkan\Source\Repos\hesapmakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojAssemblyReference.cache
+C:\Users\Furkan\Source\Repos\hesapmakinesi\HesapMakinesi\obj\Debug\Hesap.Form1.resources
+C:\Users\Furkan\Source\Repos\hesapmakinesi\HesapMakinesi\obj\Debug\Hesap.Properties.Resources.resources
+C:\Users\Furkan\Source\Repos\hesapmakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\Furkan\Source\Repos\hesapmakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Source\Repos\hesapmakinesi\HesapMakinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\Furkan\Source\Repos\hesapmakinesi\HesapMakinesi\obj\Debug\Hesap Makinesi.pdb
+C:\Users\Egee\Downloads\hesapmakinesi\HesapMakinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\Egee\Downloads\hesapmakinesi\HesapMakinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\Egee\Downloads\hesapmakinesi\HesapMakinesi\obj\Debug\Hesap Makinesi.pdb
+C:\Users\Egee\Downloads\hesapmakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojAssemblyReference.cache
